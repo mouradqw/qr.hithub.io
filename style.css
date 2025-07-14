@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(188, 238, 238);
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    height: 430px;
+    width: 270px;
+    border-radius: 15px;
+}
+img{
+    height: 200px;
+    padding: 30px;
+    border-radius: 40px;
+}
+.title{
+    margin-left: 35px;
+    font-size: 17px;
+font-weight: bold;
+    margin-bottom: 5px;
+}
+.text{
+    margin-top: 10px;
+    word-spacing: 2px;
+    font-size: 14px;
+    font-style: italic;
+    margin-left: 35px;
+        margin-right: 35px;
+
+}
